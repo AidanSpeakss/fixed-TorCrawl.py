@@ -55,7 +55,7 @@ $ torcrawl -v -u http://www.github.com/ -c -d 2 -p 2
 
 ### Manual Installation:
 1. **Clone this repository**:<br>
-`git clone https://github.com/MikeMeliz/TorCrawl.py.git`
+`git clone https://github.com/AidanSpeakss/fixed-TorCrawl.py.git`
 2. **Install dependecies**:<br>
 `pip install -r requirements.txt`
 3. **Install and Start TOR Service**:
